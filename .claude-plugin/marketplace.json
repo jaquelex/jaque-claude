@@ -1,0 +1,15 @@
+{
+  "name": "jaque",
+  "owner": { "name": "ZYNGULARITY IA", "email": "admon@jaque.pro" },
+  "metadata": { "description": "Jaque: contratación estatal colombiana, dentro de Claude." },
+  "plugins": [
+    {
+      "name": "jaque",
+      "source": "./jaque",
+      "description": "Conector de Jaque y habilidades para redactar observaciones, revisar procesos de SECOP II, revisar pliegos y verificar contratistas.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "homepage": "https://jaque.pro"
+    }
+  ]
+}
