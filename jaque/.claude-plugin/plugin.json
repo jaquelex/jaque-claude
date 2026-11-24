@@ -1,0 +1,8 @@
+{
+  "name": "jaque",
+  "version": "0.1.0",
+  "description": "Jaque para Claude: contratación estatal colombiana. Conecta tu cuenta de Jaque y trae habilidades para redactar observaciones al pliego, revisar procesos de SECOP II, revisar pliegos y diligenciar formatos, verificar contratistas y ver quién le vende a cada entidad.",
+  "author": { "name": "ZYNGULARITY IA", "email": "admon@jaque.pro" },
+  "homepage": "https://jaque.pro",
+  "keywords": ["secop", "contratación estatal", "colombia", "licitaciones", "observaciones", "jaque"]
+}
