@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jaque": {
+      "type": "http",
+      "url": "https://jaque.pro/mcp"
+    }
+  }
+}
